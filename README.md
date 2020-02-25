@@ -3,7 +3,7 @@
 
 ## Procedure to run the application on Swagger.
 
-1. Run the * *FinancialDemoApplication.java 
+1. Run the * *FinancialDemoApplication.java* *
 2. Copy the link (http://localhost:8080/swagger-ui.html#/) to your browser to see the Swagger UI
 3. Expand the rest-api-controller node
 4. Click on the **User Login POST** request to obtain the token and then click on the **Try it out** button
